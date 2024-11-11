@@ -1,7 +1,7 @@
 # 19AI403 ASSIGNMENT-LAB INTRODUCTION
-### Prepared By : SHAIK MAHAMMAD IMRAAN
-### Register Number : 212223100053
-### DEPT : CSE(CYBER SECURITY) 2nd YEAR
+### Prepared By : MOULIDHAR YADAV
+### Register Number : 212223240042
+### DEPT : (AIML) 2nd YEAR
 
 ## Requirements :
 
